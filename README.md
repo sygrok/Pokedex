@@ -52,7 +52,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ##Overview
 
 -Main page
-![MainPage](http://sygrok.com/gif1)
+<iframe src="https://giphy.com/embed/GOrUMQplOQK53wqRtY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GOrUMQplOQK53wqRtY">via GIPHY</a></p>
 
 
 -Filter by Category or SeachBar
