@@ -1,0 +1,26 @@
+<button class="scroll-top-btn" (click)="scrollTop()" [hidden]="!showScrollTop">&#8593;</button>
+
+<div class="back">
+  <div class="searchDiv container d-flex justify-content-center mt-2">
+  <input class="searchBar" type="text" [(ngModel)]="searchText" placeholder="Search Pokemon" />
+
+  </div>
+  <div class="card-container">
+    <div class="card card-top" style="width: 18rem;" *ngFor="let pokemon of pokemons | filter: searchText">
+      <h5 class="card-title">{{pokemon.name}}</h5>
+      <img [src]="pokemon.picture" class="card-img-top" alt="...">
+      
+      <div class="card-body pt-1 pb-1">
+        
+        <p class="card-text">{{pokemon.description}}</p>
+      </div>
+      
+      <div class="card-body card-buttons">
+        <button class="card-link btn" (click)="clickDetail(pokemon.id)" routerLink="pokelist/{{pokemon.id}}">Details</button>
+        <button class="card-link btn-e">{{pokemon.category}}</button>
+        
+        
+      </div>
+    </div>
+  </div>
+</div>

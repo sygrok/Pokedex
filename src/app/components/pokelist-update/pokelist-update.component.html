@@ -1,0 +1,59 @@
+<div class="content">
+    <div class="col-md-12">
+      <div class="card">
+        <div class="card-header">
+          <h5 class="title">UPDATE POKEMON</h5>
+        </div>
+        <div class="card-body">
+          <!-- formGroup adına carAddFrom vererek ts deki değişken maplenmiş oluyor -->
+          <form *ngIf="pokemons.length > 0" [formGroup]="pokelistUpdateForm">
+            <div class="mb-3 x">
+              <label for="model">Pokemon Name</label>
+              <div class="form-group">
+                <input type="text" id="model" formControlName="name" class="form-control" placeholder="name" />
+              </div>
+            </div>
+  
+            <div class="mb-3 x">
+              <label for="brandId">Select Type</label>
+              <div class="form-group">
+                <select class="form-select" aria-label="Default select example" id="categoryId" style="color: #999;"
+                  formControlName="category" class="form-control">
+                  <option value="" disabled selected>Type</option>
+                  <option value="{{category.name}}" *ngFor="let category of categories">{{category.name}}</option>
+                </select>
+                <div class="form-group">
+                    <select class="form-select" aria-label="Default select example" id="categoryId" style="color: #999;"
+                      formControlName="categoryId" class="form-control">
+                      <option value="" disabled selected>Choose Category ID *Required</option>
+                      <option value="{{category.id}}" *ngFor="let category of categories">{{category.name}} = {{category.id}}</option>
+                    </select>
+                  </div>
+              </div>
+            </div>
+            <div class="mb-3 x">
+              <label for="description">Description</label>
+              <div class="form-group">
+                <input type="text" id="description" formControlName="description" class="form-control" placeholder="description" />
+              </div>
+            </div>
+            <div class="mb-3 x">
+              <label for="picture">Image URL</label>
+              <div class="form-group">
+                <input type="text" id="picture" formControlName="picture" class="form-control"
+                  placeholder="Type Image URL" />
+              </div>
+            </div>
+          </form>
+        </div>
+        <div class="card-footer">
+          <div class="d-grid gap-2 col-6 mx-auto">
+            <button type="button" class="btn btn-success" (click)="update()">UPDATE</button>
+          </div>
+        </div>
+      </div>
+  
+    </div>
+  
+  </div>
+  

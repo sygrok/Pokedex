@@ -1,0 +1,153 @@
+.card-container {
+    display: grid;
+    margin: 0 80px 0 80px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    align-items: center;
+    background-color: #323232;
+
+}
+
+.card {
+    margin-bottom: 30px;
+    border-radius: 50px 0 50px 0;
+    width: 200px !important;
+    text-align: center;
+    background-color: wheat;
+    transition: transform 0.3s ease;
+}
+
+.card-top {
+    padding-top: 15px;
+}
+
+h5 {
+    background-color: #323232;
+    color: white;
+}
+
+.card-buttons {
+    border-top: #323232 solid 1px;
+    grid-template-columns: 1fr 1fr !important;
+    display: grid;
+    align-items: center;
+}
+
+.btn-e {
+    background-color: goldenrod !important;
+}
+
+.card-body {
+    background-color: white;
+    border-top: #323232 solid 1px;
+}
+
+.card-buttons button {
+    background-color: #323232;
+    color: white;
+
+
+}
+
+
+
+.card-body p {
+
+    font-size: 12px !important;
+}
+
+.card:hover {
+    transform: perspective(500px) rotateY(10deg);
+}
+
+
+
+.searchBar {
+    margin-top: 30px;
+
+    margin-bottom: 30px;
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 10px;
+    width: 70%;
+    text-align: center;
+    height: 50px;
+}
+
+.scroll-top-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background-color: #ccc;
+    border-radius: 50%;
+    font-size: 24px;
+    color: #fff;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 960px) {
+
+    .card-container {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px !important;
+        margin: 0px;
+    }
+
+    .card {
+        font: 1rem normal !important;
+        width: 100% !important;
+        border-radius: 40px 0 50px 0;
+
+    }
+
+
+
+    .searchBar {
+        margin-top: 30px;
+
+        margin-bottom: 30px;
+        border-radius: 10px;
+        width: 70%;
+        text-align: center;
+        height: 25px;
+    }
+
+    .scroll-top-btn {
+        display: none !important;
+    }
+
+    .card-body {
+        margin: 0px !important;
+        padding: 0px !important;
+    }
+
+    .card-buttons,
+    .btn {
+        border-top: #323232 solid 1px;
+        grid-template-columns: 1fr 1fr !important;
+        display: grid;
+        font: 0.5rem normal !important;
+        margin: 0px !important;
+
+    }
+
+    .card-link {
+        padding: 3px !important;
+        margin: 5px !important;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+
+    .btn {
+        border: 2px black solid;
+    }
+
+
+}

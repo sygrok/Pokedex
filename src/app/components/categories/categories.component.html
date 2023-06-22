@@ -1,0 +1,22 @@
+
+<div class="page-container">
+    <div class="container">
+        <div class="item item-addPokemon" routerLink="pokelist-add">ADD POKEMON</div>
+        <div class="item item-addCategory" routerLink="categories-add">ADD CATEGORY</div>
+        <div (click)="reloadPageAndNavigate()" class="item showAll">
+            SHOW ALL
+        </div>
+        <div class="item" (click)="selectCategory(category)" 
+            routerLink="/pokelist/category/{{ category.id }}"
+            *ngFor="let category of categories">
+            {{category.name}} 
+            <img class="icon" [src]="category.icon" alt="Icon 1" width="20" height="20"> 
+
+           <img class="icon icon-r" src="/assets/img/delete.png" alt="Icon 2" width="25" height="25" (click)="delete(category)">
+            
+        </div>
+        
+
+        
+    </div>
+    </div>

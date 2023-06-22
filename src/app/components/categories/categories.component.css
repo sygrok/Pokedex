@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+
+.page-container {
+    padding: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: wheat;
+    font: 20px bold;
+    color: white;
+    font-family: 'Cherry Bomb One', cursive;
+    border-radius: 0px 0px 50px 50px;
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+}
+
+.item {
+    text-align: center;
+    background-color: firebrick;
+    padding: 10px;
+    border: 4px solid black;
+    border-radius: 50px 0px 50px 0px;
+    color: whitesmoke;
+    transition: transform 0.3s ease;
+}
+
+.item:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.item-addPokemon {
+    background-color: darkcyan;
+    color: whitesmoke;
+    border: 4px solid black;
+}
+
+.item-addCategory {
+    background-color: plum;
+    color: whitesmoke;
+    border: 4px solid black;
+}
+
+.showAll {
+    background-color: darkgoldenrod;
+    color: whitesmoke;
+    border: 4px solid black;
+}
+
+.icon {
+    margin-right: 5px;
+}
+
+@media screen and (max-width: 960px) {
+    .page-container {
+        padding: 0px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        background-color: wheat;
+        font: 10px normal;
+        color: white;
+        font-family: 'Cherry Bomb One', cursive;
+        border-radius: 0px 0px 15px 15px !important;
+        margin: 0px;
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+
+    .container {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+        grid-gap: 10px;
+    }
+
+    .icon-r {
+        width: 15px;
+        height: 15px;
+    }
+
+    .icon {
+        width: 15px;
+        height: 15px;
+    }
+
+    .item {
+        text-align: center;
+        padding: 0px;
+        border: 0.8px solid black;
+        border-radius: 23px 0px 23px 0px;
+    }
+}

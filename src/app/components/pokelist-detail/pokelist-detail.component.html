@@ -1,0 +1,16 @@
+
+
+
+  <section class="container">
+    <div class="left"><img [src]="pokemon.picture" alt="pokemon"></div>
+    <div class="right">
+      <div class="header"><h2>{{pokemon.name}}</h2></div>
+      <div class="content"><p>{{pokemon.description}}</p></div>
+      <div class="footer">
+        <button class="button" routerLink="/pokelist-update/{{pokemon.id}}">UPDATE</button> 
+        <button class="button1" (click)="delete(pokemon)">DELETE<img src="/assets/img/delete2.png" [width]="50" alt=""></button>
+        
+        <div class="category"><h2>{{pokemon.category}}</h2></div>
+      </div>
+    </div>
+  </section>

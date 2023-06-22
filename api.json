@@ -1,0 +1,231 @@
+{
+  "pokelist": [
+    {
+      "name": "Charmeleon",
+      "category": "Fire",
+      "categoryId": 1,
+      "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Arcanine",
+      "category": "Fire",
+      "categoryId": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png"
+    },
+    {
+      "name": "Magmar",
+      "category": "Fire",
+      "categoryId": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore1",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Ponyta",
+      "category": "Fire",
+      "categoryId": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png"
+    },
+    {
+      "name": "Growlithe",
+      "category": "Fire",
+      "categoryId": 1,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore1",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "Squirtle",
+      "category": "Water",
+      "categoryId": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+      "id": 7,
+      "name": "Poliwag",
+      "category": "Water",
+      "categoryId": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png"
+    },
+    {
+      "id": 8,
+      "name": "Tentacool",
+      "category": "Water",
+      "categoryId": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png"
+    },
+    {
+      "id": 9,
+      "name": "Staryu",
+      "category": "Water",
+      "categoryId": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png"
+    },
+    {
+      "id": 10,
+      "name": "Magikarp",
+      "category": "Water",
+      "categoryId": 2,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png"
+    },
+    {
+      "id": 11,
+      "name": "Bulbasaur",
+      "category": "Grass",
+      "categoryId": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+      "id": 12,
+      "name": "Bellsprout",
+      "category": "Grass",
+      "categoryId": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png"
+    },
+    {
+      "id": 13,
+      "name": "Exeggcute",
+      "category": "Grass",
+      "categoryId": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png"
+    },
+    {
+      "id": 14,
+      "name": "Paras",
+      "category": "Grass",
+      "categoryId": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png"
+    },
+    {
+      "id": 15,
+      "name": "Oddish",
+      "category": "Grass",
+      "categoryId": 3,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png"
+    },
+    {
+      "id": 16,
+      "name": "Pikachu",
+      "category": "Electric",
+      "categoryId": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    },
+    {
+      "id": 17,
+      "name": "Magnemite",
+      "category": "Electric",
+      "categoryId": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png"
+    },
+    {
+      "id": 18,
+      "name": "Electabuzz",
+      "category": "Electric",
+      "categoryId": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png"
+    },
+    {
+      "id": 19,
+      "name": "Voltorb",
+      "category": "Electric",
+      "categoryId": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png"
+    },
+    {
+      "id": 20,
+      "name": "Jolteon",
+      "category": "Electric",
+      "categoryId": 4,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png"
+    },
+    {
+      "id": 21,
+      "name": "Geodude",
+      "category": "Rock",
+      "categoryId": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png"
+    },
+    {
+      "id": 22,
+      "name": "Onix",
+      "category": "Rock",
+      "categoryId": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png"
+    },
+    {
+      "id": 23,
+      "name": "Rhyhorn",
+      "category": "Rock",
+      "categoryId": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png"
+    },
+    {
+      "id": 24,
+      "name": "Omanyte",
+      "category": "Rock",
+      "categoryId": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png"
+    },
+    {
+      "name": "Kabuto",
+      "category": "Rock",
+      "categoryId": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore1",
+      "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
+      "id": 25
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fire",
+      "icon": "/assets/img/fire.png"
+    },
+    {
+      "id": 2,
+      "name": "Water",
+      "icon": "/assets/img/water.svg"
+    },
+    {
+      "id": 3,
+      "name": "Grass",
+      "icon": "/assets/img/grass.png"
+    },
+    {
+      "id": 4,
+      "name": "Electric",
+      "icon": "/assets/img/electric.png"
+    },
+    {
+      "id": 5,
+      "name": "Rock",
+      "icon": "/assets/img/rock.jpg"
+    }
+  ]
+}

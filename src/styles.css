@@ -1,0 +1,9 @@
+body {
+    background-image: url("/assets/img/body_bg.png");
+
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
