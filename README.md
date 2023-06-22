@@ -52,7 +52,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ##Overview
 
 -Main page
-![MainPage]([https://link.to/your/gif.gif](https://gifyu.com/image/SQunR))
+![MainPage](http://sygrok.com/gif1)
 
 
 -Filter by Category or SeachBar
