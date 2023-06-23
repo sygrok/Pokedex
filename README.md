@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<p>
-  # Pokedex
+# Pokedex
 A Pokedex Application With Angular
 
 I used HTML, CSS, TypeScript, Bootstrap, and Angular as programming languages within the project. You can filter the Pokémon based on their categories or by using the search box. After clicking on the details button, you can update or delete the selected Pokémon. Additionally, you can add your own customized Pokemon and create your own category upon request.
@@ -60,7 +52,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ##Overview
 
 -Main page
-<iframe src="https://giphy.com/embed/GOrUMQplOQK53wqRtY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GOrUMQplOQK53wqRtY">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif" width="auto"><br/>
 
 
 -Filter by Category or SeachBar
@@ -68,11 +60,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 -Add Category and Pokemon
 
 -Detail Page ,Update and Delete
-
-</p>
-
-</body>
-</html>
 
 
 
