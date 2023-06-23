@@ -1,23 +1,14 @@
 # Pokedex
 A Pokedex Application With Angular
-![Örnek GIF1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif)
+
 I used HTML, CSS, TypeScript, Bootstrap, and Angular as programming languages within the project. You can filter the Pokémon based on their categories or by using the search box. After clicking on the details button, you can update or delete the selected Pokémon. Additionally, you can add your own customized Pokemon and create your own category upon request.
 
 ## Table of Contents
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Overview](#overview)
 
-
-## Features
-
-- Search for Pokemon by name or ID.
-- View detailed information about each Pokemon, including their abilities, types, and stats.
-- Browse through a list of Pokemon and navigate between them.
-- Responsive design for seamless experience on different devices.
-- Beautiful and intuitive user interface.
 
 ## Installation
 
@@ -36,9 +27,7 @@ Once the application is running, you can perform the following actions:
 -Add Pokemons and categories.
 -Filter Pokemons by category or typing their name.
 -Customize a Pokemon by using update method.
--Delete a categories or Pokemons
-
-
+-Delete a category or a Pokemon
 
 ## Contributing
 
@@ -49,7 +38,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Submit a pull request describing your changes.
-
 
 ## Overview
 
