@@ -53,14 +53,17 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Overview
 
--Main page
+-Main page<br>
+<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/main-page.gif" width="auto"><br/>
+
+-Filter by Category or SeachBar<br>
+<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/filter.gif" width="auto"><br/>
+
+-Add Category and Pokemon<br>
 <img src="https://github.com/sygrok/Pokedex/blob/main/gifs/add.gif" width="auto"><br/>
--Filter by Category or SeachBar
 
--Add Category and Pokemon
-
--Detail Page ,Update and Delete
-
+-Detail Page ,Update and Delete<br>
+<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/functions.gif" width="auto"><br/>
 
 
 
