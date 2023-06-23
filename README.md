@@ -54,9 +54,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## Overview
 
 -Main page
-![Açıklama](
-https://i.imgur.com/oO650mw.mp4
-)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/rtlMzBF"  ><a href="//imgur.com/a/rtlMzBF">MainPage-Pokedex</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 -Filter by Category or SeachBar
 
 -Add Category and Pokemon
