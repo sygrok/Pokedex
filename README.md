@@ -8,6 +8,7 @@ I used HTML, CSS, TypeScript, Bootstrap, and Angular as programming languages wi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Overview](#Overview)
 
 
 ## Features
