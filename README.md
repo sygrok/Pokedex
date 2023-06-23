@@ -24,10 +24,11 @@ To install and run the application locally, follow these steps:
 
 Once the application is running, you can perform the following actions:
 
--Add Pokemons and categories.
--Filter Pokemons by category or typing their name.
--Customize a Pokemon by using update method.
--Delete a category or a Pokemon
+1. Add Pokemons and categories.
+2. Filter Pokemons by category or typing their name.
+3. Click details to see other options.
+4. Customize a Pokemon by using update method.
+5. Delete a category or a Pokemon
 
 ## Contributing
 
