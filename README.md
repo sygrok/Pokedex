@@ -54,9 +54,9 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## Overview
 
 -Main page
-![Örnek GIF1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif)
-
-
+![Açıklama](
+https://i.imgur.com/oO650mw.mp4
+)
 -Filter by Category or SeachBar
 
 -Add Category and Pokemon
