@@ -54,7 +54,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## Overview
 
 -Main page
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/rtlMzBF"  ><a href="//imgur.com/a/rtlMzBF">MainPage-Pokedex</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Gif1](https://www.youtube.com/watch?v=PIoXI62tUg8)
 -Filter by Category or SeachBar
 
 -Add Category and Pokemon
