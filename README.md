@@ -1,6 +1,6 @@
 # Pokedex
 A Pokedex Application With Angular
-
+![Örnek GIF1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif)
 I used HTML, CSS, TypeScript, Bootstrap, and Angular as programming languages within the project. You can filter the Pokémon based on their categories or by using the search box. After clicking on the details button, you can update or delete the selected Pokémon. Additionally, you can add your own customized Pokemon and create your own category upon request.
 
 ## Table of Contents
@@ -52,7 +52,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ##Overview
 
 -Main page
-![Örnek GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif)
+![Örnek GIF1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif)
 
 
 -Filter by Category or SeachBar
