@@ -8,7 +8,7 @@ I used HTML, CSS, TypeScript, Bootstrap, and Angular as programming languages wi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Overview](#Overview)
+- [Overview](#overview)
 
 
 ## Features
@@ -50,7 +50,8 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push your changes to your fork.
 5. Submit a pull request describing your changes.
 
-##Overview
+
+## Overview
 
 -Main page
 ![Örnek GIF1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif)
