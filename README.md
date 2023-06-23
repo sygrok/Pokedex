@@ -52,7 +52,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ##Overview
 
 -Main page
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif" width="auto"><br/>
+![Örnek GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlqYnk5bHhiZGFwczBtaDAzaDB5NWMxM2kxMWxlZ2Jlc2hpODFneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GOrUMQplOQK53wqRtY/giphy.gif)
 
 
 -Filter by Category or SeachBar
