@@ -54,7 +54,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## Overview
 
 -Main page
-![Gif1](https://www.youtube.com/watch?v=PIoXI62tUg8)
+![Gif1]([https://www.youtube.com/watch?v=PIoXI62tUg8](https://github.com/sygrok/Pokedex/blob/main/gifs/add.gif))
 -Filter by Category or SeachBar
 
 -Add Category and Pokemon
