@@ -53,17 +53,17 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Overview
 
--Main page<br>
-<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/main-page.gif" width="auto"><br/>
+-Main page<br><br>
+<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/main-page.gif" width="auto"><br/><br><br>
 
--Filter by Category or SeachBar<br>
-<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/filter.gif" width="auto"><br/>
+-Filter by Category or SeachBar<br><br>
+<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/filter.gif" width="auto"><br/><br><br>
 
--Add Category and Pokemon<br>
-<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/add.gif" width="auto"><br/>
+-Add Category and Pokemon<br><br>
+<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/add.gif" width="auto"><br/><br><br>
 
--Detail Page ,Update and Delete<br>
-<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/functions.gif" width="auto"><br/>
+-Detail Page ,Update and Delete<br><br>
+<img src="https://github.com/sygrok/Pokedex/blob/main/gifs/functions.gif" width="auto"><br/><br><br>
 
 
 
