@@ -1,5 +1,5 @@
 # Pokedex
-A Pokedex Application With Angular
+Pokedex app that I created with Angular.
 
 I used HTML, CSS, TypeScript, Bootstrap, and Angular as programming languages within the project. You can filter the Pokémon based on their categories or by using the search box. After clicking on the details button, you can update or delete the selected Pokémon. Additionally, you can add your own customized Pokemon and create your own category upon request.
 
